@@ -1,4 +1,2 @@
-# hello-world
-just for sample
-Hi,
-I am trying to learn datascience and mathematics a bit  late but i can
+# Data Science Related Articles
+All Data Articles recently read and to be reviewd n future for Data Analysis
